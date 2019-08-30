@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.14)
+project(the_closest_pair_problem_10245_christianledgard)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(the_closest_pair_problem_10245_christianledgard main.cpp)
